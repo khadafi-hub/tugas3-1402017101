@@ -223,7 +223,7 @@
                 <br>
                 <br>
                 <br>
-                <img src="assets/img/Bola.jpg" alt="" class="img-fluid">
+                <img src="assets/img/Bola.jpg" alt="Bola" class="img-fluid">
               </div>
             </div>
           </div>
@@ -290,7 +290,7 @@
                 <br>
                 <br>
                 <br>
-                <img src="assets/img/Silinder.JPG" alt="" class="img-fluid">
+                <img src="assets/img/Silinder.JPG" alt="Silinder" class="img-fluid">
               </div>
             </div>
           </div>
@@ -374,7 +374,7 @@
                 <br>
                 <br>
                 <br>
-                <img src="assets/img/Kerucut.JPG" alt="" class="img-fluid">
+                <img src="assets/img/Kerucut.JPG" alt="Kerucut" class="img-fluid">
               </div>
             </div>
           </div>
